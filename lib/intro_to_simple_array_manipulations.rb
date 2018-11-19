@@ -10,4 +10,5 @@ def using_pop(array)
   string = array.pop
 end 
 
-pop_with_args(array, )
+pop_with_args(array)
+end 
